@@ -424,6 +424,7 @@ public void Checkboxcambio(javax.swing.JCheckBox jCheckBox, javax.swing.JTextFie
              jTField.setEditable(false);
         }
 }
+
 public String getConsulta(){
         String consulta = "";
         switch(jCBusquedaEstudiante.getSelectedIndex()){
